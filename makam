@@ -1,0 +1,167 @@
+[
+ {
+   "ID": 1,
+   "DESA": "SEPAKUNG",
+   "JUMLAH PENDUDUK": 4189,
+   "NAMA MAKAM": "Krajan",
+   "LOKASI": "Krajan",
+   "LUAS": 2000,
+   "STATUS TANAH": "Tanah Desa",
+   "ISI": 75,
+   "KECAMATAN": "BANYUBIRU"
+ },
+ {
+   "ID": 2,
+   "DESA": "SEPAKUNG",
+   "JUMLAH PENDUDUK": 4189,
+   "NAMA MAKAM": "Paggergedong",
+   "LOKASI": "Paggergedong",
+   "LUAS": 2200,
+   "STATUS TANAH": "Tanah Desa",
+   "ISI": 75,
+   "KECAMATAN": "BANYUBIRU"
+ },
+ {
+   "ID": 3,
+   "DESA": "SEPAKUNG",
+   "JUMLAH PENDUDUK": 4189,
+   "NAMA MAKAM": "Gojati",
+   "LOKASI": "Gojati",
+   "LUAS": 1300,
+   "STATUS TANAH": "Tanah Desa",
+   "ISI": 65,
+   "KECAMATAN": "BANYUBIRU"
+ },
+ {
+   "ID": 4,
+   "DESA": "SEPAKUNG",
+   "JUMLAH PENDUDUK": 4189,
+   "NAMA MAKAM": "Bungkah",
+   "LOKASI": "Bungkah",
+   "LUAS": 1100,
+   "STATUS TANAH": "Tanah Desa",
+   "ISI": 75,
+   "KECAMATAN": "BANYUBIRU"
+ },
+ {
+   "ID": 5,
+   "DESA": "SEPAKUNG",
+   "JUMLAH PENDUDUK": 4189,
+   "NAMA MAKAM": "Spakung wetan",
+   "LOKASI": "Spakung wetan",
+   "LUAS": 2350,
+   "STATUS TANAH": "Tanah Desa",
+   "ISI": 75,
+   "KECAMATAN": "BANYUBIRU"
+ },
+ {
+   "ID": 6,
+   "DESA": "SEPAKUNG",
+   "JUMLAH PENDUDUK": 4189,
+   "NAMA MAKAM": "Batur",
+   "LOKASI": "Batur",
+   "LUAS": 900,
+   "STATUS TANAH": "Tanah Desa",
+   "ISI": 60,
+   "KECAMATAN": "BANYUBIRU"
+ },
+ {
+   "ID": 7,
+   "DESA": "SEPAKUNG",
+   "JUMLAH PENDUDUK": 4189,
+   "NAMA MAKAM": "Ngelimut",
+   "LOKASI": "Ngelimut",
+   "LUAS": 700,
+   "STATUS TANAH": "Tanah Desa",
+   "ISI": 70,
+   "KECAMATAN": "BANYUBIRU"
+ },
+ {
+   "ID": 8,
+   "DESA": "SEPAKUNG",
+   "JUMLAH PENDUDUK": 4189,
+   "NAMA MAKAM": "Gowono",
+   "LOKASI": "Gowono",
+   "LUAS": 375,
+   "STATUS TANAH": "Tanah Desa",
+   "ISI": 75,
+   "KECAMATAN": "BANYUBIRU"
+ },
+ {
+   "ID": 9,
+   "DESA": "SEPAKUNG",
+   "JUMLAH PENDUDUK": 4189,
+   "NAMA MAKAM": "Kenongo",
+   "LOKASI": "Kenongo",
+   "LUAS": 420,
+   "STATUS TANAH": "Tanah Desa",
+   "ISI": 75,
+   "KECAMATAN": "BANYUBIRU"
+ },
+ {
+   "ID": 10,
+   "DESA": "SEPAKUNG",
+   "JUMLAH PENDUDUK": 4189,
+   "NAMA MAKAM": "Jingkol",
+   "LOKASI": "Jingkol",
+   "LUAS": 1100,
+   "STATUS TANAH": "Tanah Desa",
+   "ISI": 75,
+   "KECAMATAN": "BANYUBIRU"
+ },
+ {
+   "ID": 11,
+   "DESA": "SEPAKUNG",
+   "JUMLAH PENDUDUK": 4189,
+   "NAMA MAKAM": "Srandil",
+   "LOKASI": "Srandil",
+   "LUAS": 950,
+   "STATUS TANAH": "Tanah Desa",
+   "ISI": 80,
+   "KECAMATAN": "BANYUBIRU"
+ },
+ {
+   "ID": 12,
+   "DESA": "NGRAPAH",
+   "JUMLAH PENDUDUK": 3798,
+   "NAMA MAKAM": "Sekacir",
+   "LOKASI": "Ngelembu",
+   "LUAS": 1500,
+   "STATUS TANAH": "Tanah Desa/ C Desa",
+   "ISI": 60,
+   "KECAMATAN": "BANYUBIRU"
+ },
+ {
+   "ID": 13,
+   "DESA": "NGRAPAH",
+   "JUMLAH PENDUDUK": 3798,
+   "NAMA MAKAM": "Randu Agung",
+   "LOKASI": "Ngrapah",
+   "LUAS": 1300,
+   "STATUS TANAH": "Tanah Desa/ C Desa",
+   "ISI": 75,
+   "KECAMATAN": "BANYUBIRU"
+ },
+ {
+   "ID": 14,
+   "DESA": "NGRAPAH",
+   "JUMLAH PENDUDUK": 3798,
+   "NAMA MAKAM": "Serang Gono",
+   "LOKASI": "Mendut",
+   "LUAS": 500,
+   "STATUS TANAH": "Tanah Desa/ C Desa",
+   "ISI": 80,
+   "KECAMATAN": "BANYUBIRU"
+ },
+ {
+   "ID": 15,
+   "DESA": "NGRAPAH",
+   "JUMLAH PENDUDUK": 3798,
+   "NAMA MAKAM": "Samampir",
+   "LOKASI": "Mendut",
+   "LUAS": 700,
+   "STATUS TANAH": "Tanah Desa/ C Desa",
+   "ISI": 60,
+   "KECAMATAN": "BANYUBIRU"
+ }
+]
