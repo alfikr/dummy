@@ -1,4 +1,4 @@
-[
+{"result":[
  {
    "ID": 1,
    "DESA": "SEPAKUNG",
@@ -164,4 +164,4 @@
    "ISI": 60,
    "KECAMATAN": "BANYUBIRU"
  }
-]
+]}
