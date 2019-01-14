@@ -163,5 +163,115 @@
    "STATUS TANAH": "Tanah Desa/ C Desa",
    "ISI": 60,
    "KECAMATAN": "BANYUBIRU"
+ },
+ {
+   "ID": 16,
+   "DESA": "BANYUBIRU",
+   "JUMLAH PENDUDUK": 6688,
+   "NAMA MAKAM": "Kebon ijo",
+   "LOKASI": "Blok tawang",
+   "LUAS": 4000,
+   "STATUS TANAH": "Tanah Desa",
+   "ISI": 70,
+   "KECAMATAN": "BANYUBIRU"
+ },
+ {
+   "ID": 17,
+   "DESA": "BANYUBIRU",
+   "JUMLAH PENDUDUK": 6688,
+   "NAMA MAKAM": "Pancuran",
+   "LOKASI": "Blok pancuran",
+   "LUAS": 2000,
+   "STATUS TANAH": "Tanah Desa",
+   "ISI": 70,
+   "KECAMATAN": "BANYUBIRU"
+ },
+ {
+   "ID": 18,
+   "DESA": "BANYUBIRU",
+   "JUMLAH PENDUDUK": 6688,
+   "NAMA MAKAM": "Punden kiai",
+   "LOKASI": "Blok krajan",
+   "LUAS": 1500,
+   "STATUS TANAH": "Tanah Desa",
+   "ISI": 70,
+   "KECAMATAN": "BANYUBIRU"
+ },
+ {
+   "ID": 19,
+   "DESA": "BANYUBIRU",
+   "JUMLAH PENDUDUK": 6688,
+   "NAMA MAKAM": "Punden wiro",
+   "LOKASI": "Blok pancuran",
+   "LUAS": 3000,
+   "STATUS TANAH": "Tanah Desa",
+   "ISI": 70,
+   "KECAMATAN": "BANYUBIRU"
+ },
+ {
+   "ID": 20,
+   "DESA": "BANYUBIRU",
+   "JUMLAH PENDUDUK": 6688,
+   "NAMA MAKAM": "Rejoso",
+   "LOKASI": "Blok tawang",
+   "LUAS": 2500,
+   "STATUS TANAH": "Tanah Desa",
+   "ISI": 70,
+   "KECAMATAN": "BANYUBIRU"
+ },
+ {
+   "ID": 21,
+   "DESA": "BANYUBIRU",
+   "JUMLAH PENDUDUK": 6688,
+   "NAMA MAKAM": "Ropari",
+   "LOKASI": "Blok krajan",
+   "LUAS": 2000,
+   "STATUS TANAH": "Tanah Desa",
+   "ISI": 70,
+   "KECAMATAN": "BANYUBIRU"
+ },
+ {
+   "ID": 22,
+   "DESA": "BANYUBIRU",
+   "JUMLAH PENDUDUK": 6688,
+   "NAMA MAKAM": "Sejarak",
+   "LOKASI": "Blok dengkel",
+   "LUAS": 3000,
+   "STATUS TANAH": "Tanah Desa",
+   "ISI": 70,
+   "KECAMATAN": "BANYUBIRU"
+ },
+ {
+   "ID": 23,
+   "DESA": "BANYUBIRU",
+   "JUMLAH PENDUDUK": 6688,
+   "NAMA MAKAM": "Selanceng",
+   "LOKASI": "Blok krajan",
+   "LUAS": 2000,
+   "STATUS TANAH": "Tanah Desa",
+   "ISI": 70,
+   "KECAMATAN": "BANYUBIRU"
+ },
+ {
+   "ID": 24,
+   "DESA": "BANYUBIRU",
+   "JUMLAH PENDUDUK": 6688,
+   "NAMA MAKAM": "Silanceng",
+   "LOKASI": "Blok krajan",
+   "LUAS": 3000,
+   "STATUS TANAH": "Tanah Desa",
+   "ISI": 70,
+   "KECAMATAN": "BANYUBIRU"
+ },
+ {
+   "ID": 25,
+   "DESA": "BANYUBIRU",
+   "JUMLAH PENDUDUK": 6688,
+   "NAMA MAKAM": "Sewedus",
+   "LOKASI": "Blok tawang",
+   "LUAS": 2500,
+   "STATUS TANAH": "Tanah Desa",
+   "ISI": 70,
+   "KECAMATAN": "BANYUBIRU"
  }
 ]}
