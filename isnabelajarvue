@@ -38,6 +38,10 @@
 			"nama": "test 8",
 			"kelas": "1",
 			"alamat": "test alamat 8"
+		},{
+			"nama": "test 9",
+			"kelas": "1",
+			"alamat": "test alamat 9"
 		}
 	]
 }
