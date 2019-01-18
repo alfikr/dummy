@@ -1,0 +1,43 @@
+{
+	"content": [{
+			"nama": "test 1",
+			"kelas": "1",
+			"alamat": "test alamat 1"
+		},
+		{
+			"nama": "test 2",
+			"kelas": "1",
+			"alamat": "test alamat 2"
+		},
+		{
+			"nama": "test 3",
+			"kelas": "1",
+			"alamat": "test alamat 3"
+		},
+		{
+			"nama": "test 4",
+			"kelas": "1",
+			"alamat": "test alamat 4"
+		},
+		{
+			"nama": "test 5",
+			"kelas": "1",
+			"alamat": "test alamat 5"
+		},
+		{
+			"nama": "test 6",
+			"kelas": "1",
+			"alamat": "test alamat 6"
+		},
+		{
+			"nama": "test 7",
+			"kelas": "1",
+			"alamat": "test alamat 7"
+		},
+		{
+			"nama": "test 8",
+			"kelas": "1",
+			"alamat": "test alamat 8"
+		},
+	]
+}
