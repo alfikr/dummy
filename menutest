@@ -1,0 +1,11 @@
+{
+	"menus": [{
+		"title": "News",
+		"icon": "view_column",
+		"path": "/news"
+	}, {
+		"title": "About",
+		"icon": "face",
+		"path": "/about"
+	}]
+}
